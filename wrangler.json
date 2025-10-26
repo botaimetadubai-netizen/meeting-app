@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "meeting-app",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ba522e00-3e87-4c21-9384-62bc4032f2c2",
+      "database_name": "bolt_cf_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
